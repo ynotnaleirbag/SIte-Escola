@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabeçalho {
+    background-color: rgb(226, 15, 15);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient( rgb(5, 20, 238), rgb(11, 7, 243));
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.escola-div-conteudo{
+width: 35%;
+
+}
+.escola-titulo{
+    padding: 24px 0;
+}
