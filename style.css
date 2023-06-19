@@ -27,8 +27,8 @@
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient( rgb(20, 9, 175), rgb(2, 26, 241));
-    color:white;
+    background-image: linear-gradient( rgb(182, 13, 233), rgb(2, 26, 241));
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,4 +41,19 @@ width: 35%;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.estudante-imagem{
+    width: 120px ;
+
+}
+
+.estudante-icone{
+    width: 24px; ;
+}
+
+.estudante-div{
+    text-align: center;
 }
